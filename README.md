@@ -13,7 +13,6 @@ This project tackles the classic MNIST handwritten digit classification task **w
   - Weight initialization and updates
   - One-hot encoding
   - Softmax output layer
-  - Cross-entropy loss
 - Achieved over **84% accuracy** on the test set
 - Recorded the process for educational purposes
 
